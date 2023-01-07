@@ -1,0 +1,2 @@
+Deno.bench(function bench() {
+});
